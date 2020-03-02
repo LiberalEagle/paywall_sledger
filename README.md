@@ -17,7 +17,7 @@ The following sites have been tested and are supported as of 3/2/20.
 ## Installation 
 This plugin is not published on the Chrome Web Store. Installation is simple but must be done manually following these steps: 
 
-1. Clone this repo locally 
+1. Clone/download this repo locally 
 2. Navigate to chrome://extensions
 3. Enable Developer Mode in the top right corner
 4. Select "Load unpacked" from top left corner, and then select your local unzipped version of this repo. 
